@@ -1,0 +1,23 @@
+﻿  ServerFuncs.cpp
+C:\Users\orenp\OneDrive\שולחן העבודה\אורן\תקשורת\ex3\proj\ServerFuncs.h(18,1): warning C4005: 'FAILED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(29655,1): message : see previous definition of 'FAILED'
+C:\Users\orenp\OneDrive\שולחן העבודה\אורן\תקשורת\ex3\proj\ServerFuncs.cpp(30,102): warning C4129: 'm': unrecognized character escape sequence
+C:\Users\orenp\OneDrive\שולחן העבודה\אורן\תקשורת\ex3\proj\ServerFuncs.cpp(43,65): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\orenp\OneDrive\שולחן העבודה\אורן\תקשורת\ex3\proj\ServerFuncs.cpp(51,65): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\orenp\OneDrive\שולחן העבודה\אורן\תקשורת\ex3\proj\ServerFuncs.cpp(69,65): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\orenp\OneDrive\שולחן העבודה\אורן\תקשורת\ex3\proj\ServerFuncs.cpp(77,65): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\orenp\OneDrive\שולחן העבודה\אורן\תקשורת\ex3\proj\ServerFuncs.cpp(85,65): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\orenp\OneDrive\שולחן העבודה\אורן\תקשורת\ex3\proj\ServerFuncs.cpp(172,25): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\orenp\OneDrive\שולחן העבודה\אורן\תקשורת\ex3\proj\ServerFuncs.cpp(187,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\orenp\OneDrive\שולחן העבודה\אורן\תקשורת\ex3\proj\ServerFuncs.cpp(223,23): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\orenp\OneDrive\שולחן העבודה\אורן\תקשורת\ex3\proj\ServerFuncs.cpp(235,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\orenp\OneDrive\שולחן העבודה\אורן\תקשורת\ex3\proj\ServerFuncs.cpp(268,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\orenp\OneDrive\שולחן העבודה\אורן\תקשורת\ex3\proj\ServerFuncs.cpp(292,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\orenp\OneDrive\שולחן העבודה\אורן\תקשורת\ex3\proj\ServerFuncs.cpp(298,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\orenp\OneDrive\שולחן העבודה\אורן\תקשורת\ex3\proj\ServerFuncs.cpp(299,21): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\orenp\OneDrive\שולחן העבודה\אורן\תקשורת\ex3\proj\ServerFuncs.cpp(308,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\orenp\OneDrive\שולחן העבודה\אורן\תקשורת\ex3\proj\ServerFuncs.cpp(316,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\orenp\OneDrive\שולחן העבודה\אורן\תקשורת\ex3\proj\ServerFuncs.cpp(328,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\orenp\OneDrive\שולחן העבודה\אורן\תקשורת\ex3\proj\ServerFuncs.cpp(336,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\orenp\OneDrive\שולחן העבודה\אורן\תקשורת\ex3\proj\ServerFuncs.cpp(151,7): warning C4101: 'tempBuff': unreferenced local variable
+  Server_Ex3.vcxproj -> C:\Users\orenp\OneDrive\שולחן העבודה\אורן\תקשורת\ex3\proj\x64\Debug\Server_Ex3.exe
